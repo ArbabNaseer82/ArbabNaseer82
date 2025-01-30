@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm currently working on<br>Mobile app development using Flutter & React Native<br>Optimizing and publishing apps on Play Store & Xiaomi Store<br>Stripe integration for seamless payments<br><br>🤝 I'm looking to collaborate on<br>Open-source Flutter & React Native projects<br>Building high-performance mobile applications<br><br>👐 I'm looking for help with<br>Advanced state management in Flutter<br>Improving app security & performance<br><br>🌱 I'm currently learning<br>Blockchain integration with mobile apps<br>AI & ML for smarter app features<br><br>💬 Ask me about<br>Mobile app development (React Native & Flutter)<br>API integrations (RESTful APIs, Google Maps, Stripe)<br>Firebase authentication & database<br>React Native CLI & Expo development<br>Deep AR for face filters & effects<br><br>⚡ Fun fact<br>I built a Flappy Bird game just for fun 🎮🔥<br>Worked on Deep AR to add face filters & effects in a mobile app 😎✨<br>Successfully integrated Stripe payments in both Flutter & React Native apps 💳💰
+🛠️ I'm currently working on<br>Mobile app development using Flutter & React Native<br>Optimizing and publishing apps on Play Store & Xiaomi Store<br>Stripe integration for seamless payments<br><br>🤝 I'm looking to collaborate on<br>Flutter & React Native projects<br>Building high-performance mobile applications<br><br>👐 I'm looking for help with<br>Advanced state management in Flutter<br>Improving app security & performance<br><br>🌱 I'm currently learning<br>Blockchain integration with mobile apps<br>AI & ML for smarter app features<br><br>💬 Ask me about<br>Mobile app development (React Native & Flutter)<br>API integrations (RESTful APIs, Google Maps, Stripe)<br>Firebase authentication & database<br>React Native CLI & Expo development<br>Deep AR for face filters & effects<br><br>⚡ Fun fact<br>I built a Flappy Bird game just for fun 🎮🔥<br>Worked on Deep AR to add face filters & effects in a mobile app 😎✨<br>Successfully integrated Stripe payments in both Flutter & React Native apps 💳💰
 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArbabNaseer82&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Today Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

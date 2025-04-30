@@ -7,7 +7,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArbabNaseer82&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArbabNaseer82&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArbabNaseer82&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArbabNaseer82&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArbabNaseer82&theme=radical&no-frame=false&no-bg=false&margin-w=4)

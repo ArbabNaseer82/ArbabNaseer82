@@ -4,11 +4,21 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbab-naseer-395813204/)  
-[![Indeed](https://img.shields.io/badge/Indeed-Resume-blue?style=for-the-badge&logo=indeed&logoColor=white)](https://profile.indeed.com/p/arbabn-kjssymt)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://arbabnaseer.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbabnaseer.dev@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923037671235)
+<a href="https://www.linkedin.com/in/arbab-naseer-395813204/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://profile.indeed.com/p/arbabn-kjssymt" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Indeed-Resume-blue?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
+</a>
+<a href="https://arbabnaseer.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
+</a>
+<a href="mailto:arbabnaseer.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/+923037671235" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
 # 💻 Tech Stack:
 

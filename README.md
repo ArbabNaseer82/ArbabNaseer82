@@ -84,7 +84,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArbabNaseer82&theme=dark&hide_border=true)<br/>  
 ![](https://github-profile-trophy.vercel.app/?username=ArbabNaseer82&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-![](https://github-readme-activity-graph.vercel.app/graph?username=ArbabNaseer82&theme=radical)  
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=ArbabNaseer82&theme=radical)  -->
 
 ---
 

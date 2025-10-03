@@ -1,7 +1,7 @@
 # 👨‍💻 Arbab Naseer  
 **Software Engineer | Mobile App Developer | Cross-Platform Specialist**  
 
-🔹 **4+ years of experience** in **Flutter** & **React Native**  
+🔹 **3+ years of experience** in **Flutter** & **React Native**  
 🔹 Published **multiple apps on Play Store & Xiaomi Store**  
 🔹 Skilled in **API Integration, Firebase, Stripe, Google Maps, UI/UX optimization**  
 🔹 Passionate about building **scalable, secure & high-performance apps**  

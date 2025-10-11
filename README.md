@@ -90,7 +90,7 @@
 
 ## 🏆 Achievements  
 
-✔️ 4 Years of Mobile App Development Experience  
+✔️ 3 Years of Mobile App Development Experience  
 ✔️ Built & Published **2+ Production Apps** on Play Store  
 ✔️ Hands-on with **client projects**: Stripe, DeepAR, Firebase Notifications, API Integrations  
 

@@ -38,7 +38,7 @@
 ---
 
 <details>
-<summary>## 🚀 Featured Projects </summary>
+<summary><b>🚀 Featured Projects </b></summary>
 
 <br>
 
@@ -62,7 +62,7 @@
 ---
 
 <details>
-<summary>## 💻 Tech Stack  </summary>
+<summary><b> 💻 Tech Stack </b> </summary>
 
 <br>
 
@@ -105,7 +105,7 @@
 ---
 
 <details>
-<summary>## 🏆 Achievements  </summary>
+<summary><b> 🏆 Achievements </b> </summary>
 
 <br>
 

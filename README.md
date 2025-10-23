@@ -1,12 +1,19 @@
 # 👨‍💻 Arbab Naseer  
 **Software Engineer | Mobile App Developer | Cross-Platform Specialist**  
 
+<details>
+<summary>🔹 <b>Professional Summary  </b></summary>
+
+<br>
+
 🔹 **3+ years of experience** in **Flutter** & **React Native**  
 🔹 Published **multiple apps on Play Store & Xiaomi Store**  
 🔹 Skilled in **API Integration, Firebase, Stripe, Google Maps, UI/UX optimization**  
 🔹 Passionate about building **scalable, secure & high-performance apps**  
 
 💡 *“Code is like art — the cleaner, the better it speaks.”*  
+
+</details>
 
 ---
 
@@ -30,7 +37,10 @@
 
 ---
 
-## 🚀 Featured Projects  
+<details>
+<summary>## 🚀 Featured Projects </summary>
+
+<br>
 
 ### 📱 [Fast Free VPN](https://play.google.com/store)  
 🔹 100+ Free VPN Connections  
@@ -42,14 +52,19 @@
 🔹 Optimized for performance  
 🔹 Available on Play Store  
 
-###  [Dating App (Prototype)](https://github.com/ArbabNaseer82)  
+### [Dating App (Prototype)](https://github.com/ArbabNaseer82)  
 🔹 Profile creation, chat & match system  
 🔹 Flutter + Firebase backend  
 🔹 Real-time updates  
 
+</details>
+
 ---
 
-## 💻 Tech Stack  
+<details>
+<summary>## 💻 Tech Stack  </summary>
+
+<br>
 
 **Mobile Development:**  
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -78,21 +93,27 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArbabNaseer82&theme=dark&hide_border=true)<br/>  
 ![](https://github-profile-trophy.vercel.app/?username=ArbabNaseer82&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=ArbabNaseer82&theme=radical)  -->
 
 ---
 
-## 🏆 Achievements  
+<details>
+<summary>## 🏆 Achievements  </summary>
+
+<br>
 
 ✔️ 3 Years of Mobile App Development Experience  
 ✔️ Built & Published **2+ Production Apps** on Play Store  
 ✔️ Hands-on with **client projects**: Stripe, DeepAR, Firebase Notifications, API Integrations  
+
+</details>
 
 ---
 

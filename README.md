@@ -1,126 +1,194 @@
-# 👨‍💻 Arbab Naseer  
-**Software Engineer | Mobile App Developer | Cross-Platform Specialist**  
+<div align="center">
 
-<details>
-<summary>🔹 <b>Professional Summary  </b></summary>
+<!-- Terminal-style animated header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=900&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40arbab%3A~%24+whoami;Arbab+Naseer+%E2%80%94+Flutter+%2F+Full-Stack+Engineer;Compiling+ideas+into+production+builds..." alt="Typing SVG" />
 
-<br>
+</div>
 
-🔹 **3+ years of experience** in **Flutter** & **React Native**  
-🔹 Published **multiple apps on Play Store & Xiaomi Store**  
-🔹 Skilled in **API Integration, Firebase, Stripe, Google Maps, UI/UX optimization**  
-🔹 Passionate about building **scalable, secure & high-performance apps**  
+<br/>
 
-💡 *“Code is like art — the cleaner, the better it speaks.”*  
+<!-- ============================================= -->
+<!-- GLASSMORPHIC "MAC TERMINAL" INTRO CARD -->
+<!-- ============================================= -->
+<table align="center" width="100%">
+<tr>
+<td>
 
-</details>
+```ansi
+[38;5;46m╭──────────────────────────────────────────────────────────────────╮[0m
+[38;5;46m│[0m  [38;5;196m●[0m [38;5;220m●[0m [38;5;46m●[0m   arbab@khanpur:~/dev  —  zsh — 120×30                     [38;5;46m│[0m
+[38;5;46m├──────────────────────────────────────────────────────────────────┤[0m
+[38;5;46m│[0m [38;5;51m$[0m ssh arbab@production --identity                                [38;5;46m│[0m
+[38;5;46m│[0m [38;5;244m>> connecting to node [Khanpur, Pakistan]...[0m                        [38;5;46m│[0m
+[38;5;46m│[0m [38;5;244m>> handshake ok · latency 12ms · access: root[0m                     [38;5;46m│[0m
+[38;5;46m│[0m                                                                    [38;5;46m│[0m
+[38;5;46m│[0m [38;5;51m$[0m cat profile.json                                                [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m{[0m                                                                  [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m  "name"      : "Arbab Naseer",[0m                                    [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m  "role"      : "Mobile App Developer / Software Engineer",[0m         [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m  "experience": "5+ years",[0m                                         [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m  "location"  : "Khanpur, Punjab, Pakistan",[0m                        [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m  "focus"     : ["Flutter", "React Native", "Supabase", "AR/CV"],[0m   [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m  "status"    : "Building RetailSync POS 🧾"[0m                        [38;5;46m│[0m
+[38;5;46m│[0m [38;5;250m}[0m                                                                  [38;5;46m│[0m
+[38;5;46m╰──────────────────────────────────────────────────────────────────╯[0m
+```
 
----
+</td>
+</tr>
+</table>
 
-## 🌐 Connect With Me  
+<br/>
 
-<a href="https://arbabnaseer.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌎 Portfolio-black?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/arbab-naseer-395813204/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:arbabnaseer.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://wa.me/+923037671235" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="https://profile.indeed.com/p/arbabn-kjssymt" target="_blank">
-  <img src="https://img.shields.io/badge/Indeed-blue?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed"/>
-</a>
+<!-- ============================================= -->
+<!-- HACKER SCREEN / MATRIX DECODE ANIMATION -->
+<!-- ============================================= -->
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=600&color=39FF14&background=0D111700&center=true&vCenter=true&width=760&height=45&lines=%3E+INITIALIZING+SYSTEM...+%5BOK%5D;%3E+DECRYPTING+SKILLSET.DAT...+%5BOK%5D;%3E+MOUNTING+%2Fdev%2Fflutter+...+%5BOK%5D;%3E+LOADING+SUPABASE_SCHEMA.MD...+%5BOK%5D;%3E+ACCESS+GRANTED+%E2%80%94+WELCOME%2C+ARBAB." alt="hacker boot sequence" />
 
-<details>
-<summary><b>🚀 Featured Projects </b></summary>
+<br/>
 
-<br>
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-### 📱 [Fast Free VPN](https://play.google.com/store)  
-🔹 100+ Free VPN Connections  
-🔹 Secure, Fast & Theme Customizable  
-🔹 Published on Play Store  
+</div>
 
-### 🎮 [Flappy Bird Clone](https://play.google.com/store)  
-🔹 Fun 2D game built in Flutter  
-🔹 Optimized for performance  
-🔹 Available on Play Store  
+<br/>
 
-### [Dating App (Prototype)](https://github.com/ArbabNaseer82)  
-🔹 Profile creation, chat & match system  
-🔹 Flutter + Firebase backend  
-🔹 Real-time updates  
+<!-- ============================================= -->
+<!-- ABOUT — GLASS PANEL -->
+<!-- ============================================= -->
 
-</details>
+## ⌁ `/about-me`
 
----
+<img align="right" width="230" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker-cat.gif" alt="hacker cat"/>
 
-<details>
-<summary><b> 💻 Tech Stack </b> </summary>
+```yaml
+class Developer:
+    def __init__(self):
+        self.name        = "Arbab Naseer"
+        self.location    = "Khanpur, Punjab 🇵🇰"
+        self.role        = "Flutter & Full-Stack Engineer"
+        self.experience  = "5+ years shipping mobile/web products"
+        self.currently   = "Building RetailSync — offline-first POS"
+        self.side_project = "quickimagetotext.com"
+        self.language    = ["English", "Roman Urdu"]
 
-<br>
+    def specialties(self):
+        return [
+            "AR Filters in Flutter",
+            "Payment Gateways (Stripe / JazzCash / Easypaisa)",
+            "Real-time GPS Tracking",
+            "Bluetooth Device Integration",
+            "CamScanner-style Document Capture",
+            "Offline-first Sync Engines (Hive + Clean Arch)"
+        ]
 
-**Mobile Development:**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+me = Developer()
+print(me.specialties())
+```
 
-**Backend & Cloud:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-
-**Tools & Others:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
-</details>
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Stats  
+## ⌁ `/tech-stack --verbose`
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArbabNaseer82&theme=dark&hide_border=true)<br/>  
-![](https://github-profile-trophy.vercel.app/?username=ArbabNaseer82&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+<div align="center">
+
+**Mobile**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio" />
+
+**Backend / Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgres,prisma,aws,docker" />
+
+**Web / Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,remix,ts,js,git,vscode,figma,linux" />
+
+</div>
+
+<br/>
+
+<!-- Glassmorphism-style skill capsules -->
+<div align="center">
+
+`Flutter` `React Native (Expo)` `Node.js` `ReactJS` `Remix` `Firebase`
+`Supabase` `PostgreSQL` `Prisma` `AWS EC2/S3` `Docker` `Stripe` `JazzCash` `Easypaisa`
+
+</div>
 
 ---
 
-<details>
-<summary><b> 🏆 Achievements </b> </summary>
+## ⌁ `/currently-building`
 
-<br>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-✔️ 3 Years of Mobile App Development Experience  
-✔️ Built & Published **2+ Production Apps** on Play Store  
-✔️ Hands-on with **client projects**: Stripe, DeepAR, Firebase Notifications, API Integrations  
+### 🧾 RetailSync
+Offline-first retail billing & POS app.
+`Flutter` `Supabase` `Postgres RLS` `RPC functions`
+> Box/unit-pack conversion logic, staff role management, real-time sync — built and hardened schema-first.
 
-</details>
+</td>
+<td width="50%" valign="top">
+
+### 🔎 QuickImageToText
+OCR-powered image-to-text web tool.
+`Next.js` `Tesseract.js` `i18n` `SEO`
+🔗 [quickimagetotext.com](https://quickimagetotext.com)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ✍️ Developer Quote  
+## ⌁ `/stats --live`
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArbabNaseer82&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArbabNaseer82&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArbabNaseer82&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArbabNaseer82&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff" width="90%" />
+
+</div>
+
+> 💡 The widgets above are live GitHub-Readme-Stats badges — they auto-pull your **real, current** numbers straight from GitHub each time someone views your profile, so the stats stay accurate even as this file ages.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ArbabNaseer82&icon=0&color=0)](https://visitcount.itsvg.in)  
+## ⌁ `/connect --secure`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ArbabNaseer82-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117)](https://github.com/ArbabNaseer82)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arbab_Naseer-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117)](https://www.linkedin.com/in/arbab-naseer-395813204/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-arbabnaseer.netlify.app-39FF14?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0D1117)](https://arbabnaseer.netlify.app)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```ansi
+[38;5;46m$ echo "thanks for stopping by"[0m
+[38;5;244m>> connection closed gracefully. session logged.[0m
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=%C2%A9+Arbab+Naseer+%E2%80%94+Compiled+with+%E2%9D%A4+in+Pakistan" />
+
+![Profile views](https://komarev.com/ghpvc/?username=ArbabNaseer82&color=39ff14&style=flat-square&label=SESSION+VIEWS)
+
+</div>

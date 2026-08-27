@@ -9,10 +9,6 @@
 <img src="https://raw.githubusercontent.com/ArbabNaseer82/ArbabNaseer82/main/assets/hero.svg?v=1" alt="Arbab Naseer, software engineer " width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1500&color=D9A441&center=true&vCenter=true&width=780&height=38&lines=self-taught+since+2019%2C+still+shipping;15+hackathon+wins+out+of+23%2B+entered;3rd+of+3%2C000+in+Google's+Gemini+API+competition;founder+at+Brivon+Core%2C+Lagos;building+ScribeAI%2C+Elorah+and+Cue+right+now" alt="what i do" />
-</p>
-
-<p align="center">
   <a href="https://x.com/naseer_arbab"><img src="https://img.shields.io/badge/@arbab_naseer-0B0E14?style=for-the-badge&logo=x&logoColor=E8E3D8&labelColor=0B0E14" alt="X" /></a>
   <a href="https://www.linkedin.com/in/arbab-naseer-395813204/"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=3FB68B&labelColor=0B0E14" alt="LinkedIn" /></a>
   <a href="mailto:arbabnaseer.dev@gmail.com"><img src="https://img.shields.io/badge/email-0B0E14?style=for-the-badge&logo=gmail&logoColor=C4553D&labelColor=0B0E14" alt="Email" /></a>
